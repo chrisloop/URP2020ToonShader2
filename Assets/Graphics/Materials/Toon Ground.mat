@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Toon Ground
+  m_Shader: {fileID: -6465566751694194690, guid: b31ea42934f52ac448824d8c9a57a11a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_921f4211b0b445d6ae7c318207f79b02:
+        m_Texture: {fileID: 2800000, guid: 47a1e0890079419409de984c879d92a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_fece2860af1144f287a8830bebc014f6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SSAO_OcclusionTextur:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SSAO_OcclusionTexture2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_18e5acde36e34cab9c1a00b4593f5dd2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f5522f172d72b5745b4f4db22af90682, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3f62569ac97442d184c33a581edfd62f_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_45d196726b6840a3ab63058a47c29bc7_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c5e1efcdfa0f1074d9ea6f8707820f8e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4825aa0729654372916e45bc3cfb57b4_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 47a1e0890079419409de984c879d92a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_492da8eb3baf4b52a1acb67b9cbaddb9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 47a1e0890079419409de984c879d92a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ab64d435a0d74e15a30bfe4bd60c2b93_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 47a1e0890079419409de984c879d92a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Triplanar_3e1fd3b1e78845ebbbea60c40afd4dad_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 47a1e0890079419409de984c879d92a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_02b4005b8a69416382e3e1f9791d0104: 0
+    - Vector1_610805d7363e4c5a95e5a4fc2beb64ed: 0.009
+    - Vector1_61f47af184fb45e99779c4e9bf612ccc: 0.114
+    - Vector1_69ae5fb0f33e4add8823648fa519e64e: 0
+    - Vector1_7e6732481a564681b4a489b4bd94631f: 9
+    - Vector1_80383ae8919149e1a05ee0364789690d: 0.2
+    - Vector1_92322827519c43f6ad2b0cf68ca5c882: 100
+    - Vector1_933c68c57c2a48038a6dbb856f150f0b: 0.96
+    - Vector1_b531716a48f44eb69599b7339eac1a49: 0.3
+    - Vector1_d870df385a704dcbba65ca0c09c87400: 300
+    - Vector1_f0fd6eda6d1547f9b0b2babf25cd0666: 0.1
+    - Vector1_fd36bbf533f74140892d9a76400243a4: 1.33
+    m_Colors:
+    - Color_7c94ed4f0fd241e1b0fa8c311979867e: {r: 0.85021955, g: 0.9716981, b: 0.8021093, a: 1}
+    - Color_a2697f6422104fac8dbfa6b556508922: {r: 0.61871076, g: 1, b: 0.5424528, a: 1}
+    - Color_af94935346864900b9ec2f92b5e1d09b: {r: 0.074737005, g: 0.0734247, b: 0.09433961, a: 1}
+  m_BuildTextureStacks: []
